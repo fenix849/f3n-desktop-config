@@ -17,6 +17,7 @@ choco install teamspeak -y
 choco install discord -y
 choco install nextcloud-client -y
 choco install onedrive -y
+choco install rclone.install -y
 choco install microsoft-windows-terminal -y
 choco install putty -y
 choco install wiztree -y
