@@ -26,6 +26,7 @@ choco install paint.net -y
 choco install calibre -y
 choco install winscp.install -y
 choco install cpu-z.install -y
+choco install openhardwaremonitor -y
 choco install blender -y
 choco install bitwarden -y
 choco install sharex -y
