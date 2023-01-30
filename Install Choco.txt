@@ -27,10 +27,19 @@ choco install paint.net -y
 choco install calibre -y
 choco install winscp.install -y
 choco install cpu-z.install -y
+choco install gpu-z -y
+choco install msiafterburner -y
 choco install openhardwaremonitor -y
+choco install crystaldiskinfo -y
+#choco install crystaldiskmark -y
 choco install blender -y
 choco install bitwarden -y
 choco install sharex -y
 choco install ilspy -y
+choco install xnshell.install -y
+choco install sqlitebrowser -y
+choco install autohotkey -y
+choco install powertoys -y
 
 choco upgrade all
+
