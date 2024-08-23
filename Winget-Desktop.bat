@@ -15,4 +15,4 @@ winget install --id WinSCP.WinSCP --source winget
 winget install --id CPUID.CPU-Z --source winget
 winget install --id Bitwarden.Bitwarden --source winget
 winget install --id ShareX.ShareX --source winget
-
+winget install --id Guru3D.Afterburner --source winget
